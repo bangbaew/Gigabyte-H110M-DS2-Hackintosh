@@ -21,3 +21,9 @@ What's not working
 - Handoff & Universal Clipboard
 - Full RX480 Hardware Acceleration
 - 5Ghz WiFi on Windows
+
+Clover Screenshot
+![clover](https://i.ibb.co/HBgTQPk/screenshot0.png)
+
+macOS Screenshot
+![macos](https://i.ibb.co/pdhj04b/screenshot1.png)

@@ -12,13 +12,13 @@ My Build
 
 What's working
 - AirDrop
+- Handoff & Universal Clipboard
 - iMessages & Other iServices
 - iGPU Acceleration
 - Dual booting Windows & macOS on same SSD
 - Everything else
 
 What's not working
-- Handoff & Universal Clipboard
 - Full RX480 Hardware Acceleration
 - 5Ghz WiFi on Windows
 

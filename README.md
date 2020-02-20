@@ -17,9 +17,9 @@ What's working
 - iGPU Acceleration
 - Dual booting Windows & macOS on same SSD
 - Everything else
+- Full RX480 Hardware Acceleration* (Needed to use config iMacPro1,1.plist)
 
 What's not working
-- Full RX480 Hardware Acceleration
 - 5Ghz WiFi on Windows
 
 Clover Screenshot

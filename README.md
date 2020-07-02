@@ -2,7 +2,7 @@ My Build
 - OS: macOS Catalina 10.15.3 (19D76)
 - CPU: Intel Core i5-6400
 - RAM: Kingston 16GB DDR4 @2133 Mhz
-- MB: Gigabyte H110-DS2 (Bios F24)
+- MB: Gigabyte H110M-DS2 (Bios F24)
 - GPU: XFX Radeon RX480 4GB
 - SSD: Patriot Blast 120GB
 - Audio: Realtek ALC887 onboard (Popping audio patched thanks to MaLdOn)
